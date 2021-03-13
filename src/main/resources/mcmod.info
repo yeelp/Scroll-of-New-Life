@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lifescroll",
+  "name": "Scroll of New Life",
+  "description": "A smartypants spawnpoint scroll.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Yeelp"],
+  "credits": "The Rebirth of the Night team for the request",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

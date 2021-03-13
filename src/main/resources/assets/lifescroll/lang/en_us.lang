@@ -1,0 +1,7 @@
+item.lifescroll.spawnscroll.name=§aScroll of New Life§f
+
+tooltips.lifescroll.spawnscroll.usable=This scroll radiates green life energy. Use it to set your spawnpoint to your current location! Single use.
+tooltips.lifescroll.spawnscroll.unusable=The scroll looks like a regular sheet of paper. It seems it can't detect your life energy. Perhaps you need to head back to the Overworld...
+
+messages.lifescroll.spawnscroll.success=The scroll's green energy envelops you momentarily before fading. Your spawnpoint is now %s, %s, %s!
+messages.lifescroll.spawnscroll.fail=The scroll appears to do nothing. You should probably head back to the Overworld.
