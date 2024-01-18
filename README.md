@@ -1,5 +1,14 @@
-# Scroll-of-New-Life
-[![](https://img.shields.io/discord/750481601107853373.svg?colorB=7289DA&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAABWAgMAAABnZYq0AAAACVBMVEUAAB38%2FPz%2F%2F%2F%2Bm8P%2F9AAAAAXRSTlMAQObYZgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfhBxwQJhxy2iqrAAABoElEQVRIx7WWzdGEIAyGgcMeKMESrMJ6rILZCiiBg4eYKr%2Fd1ZAfgXFm98sJfAyGNwno3G9sLucgYGpQ4OGVRxQTREMDZjF7ILSWjoiHo1n%2BE03Aw8p7CNY5IhkYd%2F%2F6MtO3f8BNhR1QWnarCH4tr6myl0cWgUVNcfMcXACP1hKrGMt8wcAyxide7Ymcgqale7hN6846uJCkQxw6GG7h2MH4Czz3cLqD1zHu0VOXMfZjHLoYvsdd0Q7ZvsOkafJ1P4QXxrWFd14wMc60h8JKCbyQvImzlFjyGoZTKzohwWR2UzSONHhYXBQOaKKsySsahwGGDnb%2FiYPJw22sCqzirSULYy1qtHhXGbtgrM0oagBV4XiTJok3GoLoDNH8ooTmBm7ZMsbpFzi2bgPGoXWXME6XT%2BRJ4GLddxJ4PpQy7tmfoU2HPN6cKg%2BledKHBKlF8oNSt5w5g5o8eXhu1IOlpl5kGerDxIVT%2BztzKepulD8utXqpChamkzzuo7xYGk%2FkpSYuviLXun5bzdRf0Krejzqyz7Z3p0I1v2d6HmA07dofmS48njAiuMgAAAAASUVORK5CYII%3D)](https://discord.gg/hwzWdXQ)
+# Scroll of New Life
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X5G4LPG)
+
+[![](https://img.shields.io/curseforge/dt/458068?style=flat&logo=curseforge&label=CurseForge%20Downloads&color=f16436)](https://www.curseforge.com/minecraft/mc-mods/scroll-of-new-life) 
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/yeelp/Scroll-of-New-Life/total?style=flat&logo=github&label=GitHub%20Downloads&color=white)](https://github.com/yeelp/Scroll-of-New-Life/releases) 
+[![Discord](https://img.shields.io/discord/750481601107853373?style=flat&logo=discord&logoColor=white&color=5662f6)](https://discord.gg/hwzWdXQ)
+![GitHub Release](https://img.shields.io/github/v/release/yeelp/Scroll-of-New-Life?include_prereleases)
+![GitHub issues](https://img.shields.io/github/issues/yeelp/Scroll-of-New-Life)
+
+![CurseForge Game Versions](https://img.shields.io/curseforge/game-versions/458068?style=flat&logo=curseforge&label=Available%20For&color=f16436)
 
 A smarty pants spawn item that tries to find a valid spawn location instead of just giving up.
 
