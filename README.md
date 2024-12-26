@@ -1,6 +1,6 @@
 # Scroll of New Life
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X5G4LPG)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X5G4LPG) [![Patreon](https://i.imgur.com/JkRflNx.png)](https://www.patreon.com/join/Yeelp)
 
 [![](https://img.shields.io/curseforge/dt/458068?style=flat&logo=curseforge&label=CurseForge%20Downloads&color=f16436)](https://www.curseforge.com/minecraft/mc-mods/scroll-of-new-life) 
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/yeelp/Scroll-of-New-Life/total?style=flat&logo=github&label=GitHub%20Downloads&color=white)](https://github.com/yeelp/Scroll-of-New-Life/releases) 
